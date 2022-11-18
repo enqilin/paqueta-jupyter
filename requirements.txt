@@ -1,4 +1,11 @@
+turtle
+sqlalchemy
+colorama
+pickle5
+pygame
+scikit-learn
 ipywidgets==7.7.1
+python-math
 matplotlib
 numpy
 pandas
